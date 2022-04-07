@@ -6,6 +6,8 @@ A scenario where my team played the role of both penetration tester and SOC anal
 
 [Blue Team](https://github.com/Jphyfer/Red-Team-vs-Blue-Team/blob/main/Activities/Activity%20Two%20Identify%20Offensive%20Traffic.pdf)
 
+[Powerpoint Presentation](https://github.com/Jphyfer/Red-Team-vs-Blue-Team/blob/main/Activities/Red%20Vs%20Blue%20Project%202%20Gold%20Team%20Jphyfer.pptx)
+
 The project had me apply knowledge with the following skills and tools:
 
 - Penetration testing with Kali Linux.
