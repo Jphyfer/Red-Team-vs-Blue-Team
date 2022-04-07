@@ -23,4 +23,4 @@ Gold Team Presentation
  - Chris Turner
  - Jason Jestila
 
-Activitys Done on an Individual Basis
+Activities Done on an Individual Basis
