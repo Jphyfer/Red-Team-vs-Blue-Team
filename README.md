@@ -12,6 +12,10 @@ The project had me apply knowledge with the following skills and tools:
 
 - Penetration testing with Kali Linux.
 
+- Alert Configuration within Kibana
+
+- Netwrok Traffic Capture with Wireshark
+
 - Log and incident analysis with Kibana.
 
 - System hardening and configuration.
